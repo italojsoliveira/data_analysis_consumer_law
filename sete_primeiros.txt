@@ -1,0 +1,17 @@
+['Oferta não cumprida / serviço não fornecido/ venda enganosa / publicidade enganosa'], 586
+
+['Cobrança indevida / abusiva para alterar ou cancelar o contrato'], 490
+
+['Dados pessoais ou financeiros consultados, coletados, publicados ou repassados sem autorização'], 400
+
+['Cobrança por serviço/produto não contratado / não reconhecido / não solicitado'], 333
+
+['Dificuldade / atraso na devolução de valores pagos / reembolso / retenção de valores'], 288
+
+['Não entrega / demora na entrega do produto'], 243
+
+['SAC - Demanda não resolvida / não respondida / respondida após o prazo'], 204
+
++ MUDANÇA DIGITAL - DADOS - PRIVACIDADE
+
++ POUCA UTILIZAÇÃO DO SAC
