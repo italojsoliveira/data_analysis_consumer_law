@@ -12,6 +12,4 @@
 
 ['SAC - Demanda não resolvida / não respondida / respondida após o prazo'], 204
 
-+ MUDANÇA DIGITAL - DADOS - PRIVACIDADE
-
-+ POUCA UTILIZAÇÃO DO SAC
+teste
