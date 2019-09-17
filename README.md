@@ -4,7 +4,7 @@ Trata-se de uma análise e visualização de dados sobre demandas simples e repe
 
 O objetivo deste repositório é garantir a transparência e replicabilidade do estudo, pondo-o à disposição pública e explicando em detalhes os procedimentos.
 
-O repositório também permite a visualização interativa feita com a biblioteca Plotly do Python, através do nbviews no link: https://nbviewer.jupyter.org/github/italojsoliveira/data_analysis_consumer_law/blob/master/tese_codigos.ipynb.
+O repositório também permite a visualização interativa feita com a biblioteca Plotly do Python, através do nbviews no link: https://nbviewer.jupyter.org/github/italojsoliveira/data_analysis_consumer_law/blob/master/data_analysis.ipynb.
 
 Os objetivos do estudo foram:
 * Avaliar a proporção de casos mais simples no total dos processos dos juizados da cidade do Recife (Pernambuco).
