@@ -2,6 +2,8 @@
 
 Trata-se de uma análise e visualização de dados sobre demandas simples e repetitivas do Direito de Consumidor brasileiro, algo que fiz para compor minha tese de doutorado em direito no Programa de Pós-Graduação em Direito (PPGD) da Universidade Federal de Pernambuco (UFPE).
 
+A tese completa pode ser encontrada em: https://repositorio.ufpe.br/handle/123456789/35348.
+
 O objetivo deste repositório é garantir a transparência e replicabilidade do estudo, pondo-o à disposição pública e explicando em detalhes os procedimentos.
 
 O repositório também permite a visualização interativa feita com a biblioteca Plotly do Python, através do nbviews no link: https://nbviewer.jupyter.org/github/italojsoliveira/data_analysis_consumer_law/blob/master/data_analysis.ipynb.
