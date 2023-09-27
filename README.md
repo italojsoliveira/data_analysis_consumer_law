@@ -1,5 +1,7 @@
 # Demandas Simples e Repetitivas do Direito do Consumidor
 
+[![DOI](https://zenodo.org/badge/208898704.svg)](https://zenodo.org/badge/latestdoi/208898704)
+
 Trata-se de uma análise e visualização de dados sobre demandas simples e repetitivas do Direito de Consumidor brasileiro, algo que fiz para compor minha tese de doutorado em direito no Programa de Pós-Graduação em Direito (PPGD) da Universidade Federal de Pernambuco (UFPE).
 
 A tese completa pode ser encontrada em: https://repositorio.ufpe.br/handle/123456789/35348.
